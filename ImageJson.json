@@ -1,0 +1,27 @@
+{
+	"ImageData":
+	{
+		"imageurl": [
+			"https://i.imgur.com/GKXnhot.jpg",
+			"https://i.imgur.com/TwK0Vaj.png"
+		],
+		"size": [ 5, 10 ],
+		"desaturation": [ 0, 0 ],
+		"emissive": [ 1, 1 ],
+		"transparency": [ 1, 1 ],
+		"addedcolor": [
+			{
+				"r": 0,
+				"g": 0,
+				"b": 0,
+				"a": 0
+			},
+			{
+				"r": 0,
+				"g": 0,
+				"b": 0,
+				"a": 0
+			}
+		]
+	}
+}
